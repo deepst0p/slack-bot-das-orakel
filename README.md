@@ -15,8 +15,6 @@ Click on the purple button below to deploy this app to Heroku. When you click th
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/deepst0p/slack-bot-das-orakel/tree/master)]
 
-![API Token Config Var](http://ledhack.org/content/images/2015/06/Screen-Shot-2015-06-05-at-2-12-01-PM.png)
-
 ### Chat as das_orakel!
 When Heroku finishes installing the app, head over to your team's Slack chat.
 Create a private channel, name it audienz_beim_orakel (or whatever you selected in heroku) and add das_orakel to it.
