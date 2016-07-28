@@ -13,7 +13,7 @@ After creating it, make sure to copy the API Token. You'll need it later. All ot
 ### Deploy this app to Heroku
 Click on the purple button below to deploy this app to Heroku. When you click the button, Heroku will open in your browser. Before you deploy the app, add the API Token for the config variable. Also, give your app a name.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/deepst0p/slack-bot-das-orakel/tree/master)]
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/deepst0p/slack-bot-das-orakel/tree/master)
 
 ### Chat as das_orakel!
 When Heroku finishes installing the app, head over to your team's Slack chat.
