@@ -1,0 +1,26 @@
+{
+  "name": "slack-bot-das-orakel",
+  "version": "0.0.1",
+  "description": "solving questions, or does it?.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "slack",
+    "bot",
+    "anonymous",
+    "das orakel"
+  ],
+  "author": "deepst0p <deepstopho@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "botkit": "0.0.7",
+    "@slack/client": "^3.5.3",
+    "lodash": "^3.10.1"
+  },
+  "engines": {
+    "node": "5.7.1"
+  }
+}

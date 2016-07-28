@@ -1,0 +1,29 @@
+{
+  "name": "slack-bot-das-orakel",
+  "description": "solving questions, or does it?",
+  "repository": "https://github.com/deepst0p/slack-bot-das-orakel",
+  "logo": "http://fs5.directupload.net/images/160726/v9wgyj76.jpg",
+  "keywords": ["node", "slack", "bot", "anonymous", "privacy", "das orakel"],
+  "env": {
+    "SLACK_API_TOKEN": {
+      "description": "This token is required in order to use Slack's API. You get it when you create a bot at https://my.slack.com/services/new/bot",
+      "value": "",
+      "required": true
+    },
+    "SLACK_CHANNEL": {
+      "description": "In which channel shall Das Orakel post its messages",
+      "value": "audienz_beim_orakel",
+      "required": true
+    },
+    "SLACK_ORAKEL_NAME": {
+      "description": "Which slack name shall it use?",
+      "value": "das_orakel",
+      "required": true
+    },
+    "SLACK_ORAKEL_ICON": {
+      "description": "Which user icon shall it use?",
+      "value": "http://fs5.directupload.net/images/160726/v9wgyj76.jpg",
+      "required": true
+    }
+  }
+}
